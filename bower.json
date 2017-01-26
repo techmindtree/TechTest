@@ -1,0 +1,14 @@
+{
+  "name": "anupweb",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.2.6",
+    "jquery": "*"
+  },
+  "devDependencies": {
+
+  },
+  "overrides": {
+
+  }
+}
